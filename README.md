@@ -22,7 +22,6 @@ A production-ready, high-performance landing page template built with modern web
 - [Theming](#theming)
 - [Security](#security)
 - [Required Customization](#required-customization)
-- [Sponsorship](#sponsorship)
 - [License](#license)
 
 ## Features
@@ -278,19 +277,6 @@ Ensure you replace all placeholders with your project-specific values:
   - `<meta name="geo.region">`: your region code (e.g., "US" for the United States)
   - `<meta name="geo.placename">`: your city or locality
   - Open Graph and Twitter Card meta tags
-
-## Sponsorship
-
-[![Boosty](https://img.shields.io/badge/Boosty-F15F2C?style=for-the-badge&logo=boosty&logoColor=white)![Support](https://img.shields.io/badge/Support%20me-grey?style=for-the-badge)](https://boosty.to/andmitr/donate) 
-
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=white&logoSize=auto) 
-```
-1CCnwAvJYEoDVGM7vsBg2Q99cF9EHtBVaY
-```
-![Tether](https://img.shields.io/badge/Tether%20(USDT%20ETH)-168363?style=flat&logo=tether&logoColor=white&logoSize=auto) 
-```
-0x54f0ccc6b2987de454f69f2814fc9202bcfb74fe
-```
 
 ## License
 
