@@ -1,11 +1,8 @@
-# SEO-Optimized Responsive Product Landing Page
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
-
-[![Support me on Boosty](https://img.shields.io/badge/Boosty-Support%20me-%23f15f2c?style=for-the-badge)](https://boosty.to/theEvilGrinch/donate)
-[![Donate](https://img.shields.io/badge/Donate-%23702ff4?style=for-the-badge)](https://yoomoney.ru/to/410016288289737)
+# Product Landing Page
 
 A production-ready, high-performance landing page template built with modern web technologies. This boilerplate provides a solid foundation for creating fast, accessible, and maintainable landing pages with zero runtime dependencies.
+
+[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square&logo=opensource)](LICENSE)
 
 ## Table of Contents
 
@@ -22,7 +19,7 @@ A production-ready, high-performance landing page template built with modern web
 - [Theming](#theming)
 - [Security](#security)
 - [Required Customization](#required-customization)
-- [Contributing](#contributing)
+- [Sponsorship](#sponsorship)
 - [License](#license)
 
 ## Features
@@ -280,14 +277,19 @@ Ensure you replace all placeholders with your project-specific values:
   - `<meta name="geo.placename">`: your city or locality
   - Open Graph and Twitter Card meta tags
 
-## Contributing
+## Sponsorship
 
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
+[![Boosty](https://img.shields.io/badge/Boosty-F15F2C?style=for-the-badge&logo=boosty&logoColor=white)![Support](https://img.shields.io/badge/Support%20me-grey?style=for-the-badge)](https://boosty.to/andmitr/donate) 
+
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat&logo=bitcoin&logoColor=white&logoSize=auto) 
+```
+1CCnwAvJYEoDVGM7vsBg2Q99cF9EHtBVaY
+```
+![Tether](https://img.shields.io/badge/Tether%20(USDT%20ETH)-168363?style=flat&logo=tether&logoColor=white&logoSize=auto) 
+```
+0x54f0ccc6b2987de454f69f2814fc9202bcfb74fe
+```
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-⚡ Maintained by [@theEvilGrinch](https://github.com/theEvilGrinch)
+MIT Licensed. See [LICENSE](LICENSE) for details.
